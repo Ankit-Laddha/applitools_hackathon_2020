@@ -91,7 +91,7 @@ fun waitForAll(locatorBy: By): List<WebElement> {
 fun isElementDisplayed(locator: By): Boolean {
     return try {
         val element = waitFor(locator)
-        element.isDisplayed // && !element.getCssValue("display").contains("none", true)
+        element.isDisplayed
     } catch (e: Exception) {
         when (e) {
             is NoSuchElementException,
