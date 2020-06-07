@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite verbose="1" name="AITests" annotations="JDK">
+
+    <listeners>
+        <listener class-name="io.ankitladdha.aitests.listeners.TestAllureListener"/>
+    </listeners>
+
+    <test name="TraditionalTests">
+        <groups>
+            <run>
+                <include name="traditional" />
+            </run>
+        </groups>
+        <classes>
+            <class name="io.ankitladdha.aitests.tests.traditional.TraditionalTestsV1"/>
+        </classes>
+    </test>
+
+    <test name="ModernTests">
+        <groups>
+            <run>
+                <include name="modern" />
+            </run>
+        </groups>
+        <classes>
+            <class name="io.ankitladdha.aitests.tests.modern.ModernTestsV1"/>
+        </classes>
+    </test>
+</suite>

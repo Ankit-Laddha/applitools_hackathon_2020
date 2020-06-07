@@ -1,0 +1,1484 @@
+
+**********************[TEST: crossDeviceElementsTest]**********************
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search textbox is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Shopping cart is displayed ? 
+	 Locator: [A__cartbt__49] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search button is displayed ? 
+	 Locator: [BUTTONsubmit____43] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Left side Filters are shown ? 
+	 Locator: [filter_col] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Wishlist is visible ? 
+	 Locator: [.wishlist] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <Grid view> option is visible ? 
+	 Locator: [ti-view-grid] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <List view> option is visible ? 
+	 Locator: [.ti-view-list] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Filter label is visible ? 
+	 Locator: [//*[@id='ti-filter']/following-sibling::span] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: is QuickLinks Section Expanded ? 
+	 Locator: [//h3[text()='Quick Links']/following-sibling::div/ul] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST-ENDs-HERE]**********************
+
+**********************[TEST: crossDeviceElementsTest]**********************
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search textbox is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Shopping cart is displayed ? 
+	 Locator: [A__cartbt__49] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search button is displayed ? 
+	 Locator: [BUTTONsubmit____43] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Left side Filters are shown ? 
+	 Locator: [filter_col] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Wishlist is visible ? 
+	 Locator: [.wishlist] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <Grid view> option is visible ? 
+	 Locator: [ti-view-grid] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <List view> option is visible ? 
+	 Locator: [.ti-view-list] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Filter label is visible ? 
+	 Locator: [//*[@id='ti-filter']/following-sibling::span] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: is QuickLinks Section Expanded ? 
+	 Locator: [//h3[text()='Quick Links']/following-sibling::div/ul] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST-ENDs-HERE]**********************
+
+**********************[TEST: crossDeviceElementsTest]**********************
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search textbox is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Shopping cart is displayed ? 
+	 Locator: [A__cartbt__49] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search button is displayed ? 
+	 Locator: [BUTTONsubmit____43] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Left side Filters are shown ? 
+	 Locator: [filter_col] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Wishlist is visible ? 
+	 Locator: [.wishlist] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <Grid view> option is visible ? 
+	 Locator: [ti-view-grid] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <List view> option is visible ? 
+	 Locator: [.ti-view-list] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Filter label is visible ? 
+	 Locator: [//*[@id='ti-filter']/following-sibling::span] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: is QuickLinks Section Expanded ? 
+	 Locator: [//h3[text()='Quick Links']/following-sibling::div/ul] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST-ENDs-HERE]**********************
+
+**********************[TEST: crossDeviceElementsTest]**********************
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search textbox is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Shopping cart is displayed ? 
+	 Locator: [A__cartbt__49] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search button is displayed ? 
+	 Locator: [BUTTONsubmit____43] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Left side Filters are shown ? 
+	 Locator: [filter_col] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Wishlist is visible ? 
+	 Locator: [.wishlist] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <Grid view> option is visible ? 
+	 Locator: [ti-view-grid] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <List view> option is visible ? 
+	 Locator: [.ti-view-list] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Filter label is visible ? 
+	 Locator: [//*[@id='ti-filter']/following-sibling::span] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: is QuickLinks Section Expanded ? 
+	 Locator: [//h3[text()='Quick Links']/following-sibling::div/ul] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST-ENDs-HERE]**********************
+
+**********************[TEST: crossDeviceElementsTest]**********************
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search textbox is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Shopping cart is displayed ? 
+	 Locator: [A__cartbt__49] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search button is displayed ? 
+	 Locator: [BUTTONsubmit____43] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Left side Filters are shown ? 
+	 Locator: [filter_col] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Wishlist is visible ? 
+	 Locator: [.wishlist] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <Grid view> option is visible ? 
+	 Locator: [ti-view-grid] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <List view> option is visible ? 
+	 Locator: [.ti-view-list] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Filter label is visible ? 
+	 Locator: [//*[@id='ti-filter']/following-sibling::span] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: is QuickLinks Section Expanded ? 
+	 Locator: [//h3[text()='Quick Links']/following-sibling::div/ul] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST-ENDs-HERE]**********************
+
+**********************[TEST: crossDeviceElementsTest]**********************
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search textbox is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Shopping cart is displayed ? 
+	 Locator: [A__cartbt__49] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search button is displayed ? 
+	 Locator: [BUTTONsubmit____43] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Left side Filters are shown ? 
+	 Locator: [filter_col] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Wishlist is visible ? 
+	 Locator: [.wishlist] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <Grid view> option is visible ? 
+	 Locator: [ti-view-grid] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <List view> option is visible ? 
+	 Locator: [.ti-view-list] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Filter label is visible ? 
+	 Locator: [//*[@id='ti-filter']/following-sibling::span] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: is QuickLinks Section Expanded ? 
+	 Locator: [//h3[text()='Quick Links']/following-sibling::div/ul] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST-ENDs-HERE]**********************
+
+**********************[TEST: crossDeviceElementsTest]**********************
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search textbox is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Shopping cart is displayed ? 
+	 Locator: [A__cartbt__49] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Search button is displayed ? 
+	 Locator: [BUTTONsubmit____43] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Left side Filters are shown ? 
+	 Locator: [filter_col] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Wishlist is visible ? 
+	 Locator: [.wishlist] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <Grid view> option is visible ? 
+	 Locator: [ti-view-grid] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Show product in <List view> option is visible ? 
+	 Locator: [.ti-view-list] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: Filter label is visible ? 
+	 Locator: [//*[@id='ti-filter']/following-sibling::span] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: crossDeviceElementsTest 
+	 Check Name: is QuickLinks Section Expanded ? 
+	 Locator: [//h3[text()='Quick Links']/following-sibling::div/ul] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST-ENDs-HERE]**********************
+
+**********************[TEST: filterResults]**********************
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Filter Products = 2 ? 
+	 Locator: [#product_grid > div] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Add to Wishlist Option ? 
+	 Locator: [#product_grid > div .ti-heart] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Compare Option ? 
+	 Locator: [#product_grid > div .ti-control-shuffle] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Cart Option ? 
+	 Locator: [#product_grid > div .ti-shopping-cart] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: filterResults]**********************
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Filter Products = 2 ? 
+	 Locator: [#product_grid > div] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Add to Wishlist Option ? 
+	 Locator: [#product_grid > div .ti-heart] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Compare Option ? 
+	 Locator: [#product_grid > div .ti-control-shuffle] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Cart Option ? 
+	 Locator: [#product_grid > div .ti-shopping-cart] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: filterResults]**********************
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Filter Products = 2 ? 
+	 Locator: [#product_grid > div] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Add to Wishlist Option ? 
+	 Locator: [#product_grid > div .ti-heart] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Compare Option ? 
+	 Locator: [#product_grid > div .ti-control-shuffle] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Cart Option ? 
+	 Locator: [#product_grid > div .ti-shopping-cart] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: filterResults]**********************
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Filter Products = 2 ? 
+	 Locator: [#product_grid > div] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Add to Wishlist Option ? 
+	 Locator: [#product_grid > div .ti-heart] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Compare Option ? 
+	 Locator: [#product_grid > div .ti-control-shuffle] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Cart Option ? 
+	 Locator: [#product_grid > div .ti-shopping-cart] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: filterResults]**********************
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Filter Products = 2 ? 
+	 Locator: [#product_grid > div] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Add to Wishlist Option ? 
+	 Locator: [#product_grid > div .ti-heart] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Compare Option ? 
+	 Locator: [#product_grid > div .ti-control-shuffle] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Cart Option ? 
+	 Locator: [#product_grid > div .ti-shopping-cart] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: filterResults]**********************
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Filter Products = 2 ? 
+	 Locator: [#product_grid > div] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Add to Wishlist Option ? 
+	 Locator: [#product_grid > div .ti-heart] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Compare Option ? 
+	 Locator: [#product_grid > div .ti-control-shuffle] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Cart Option ? 
+	 Locator: [#product_grid > div .ti-shopping-cart] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: filterResults]**********************
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Filter Products = 2 ? 
+	 Locator: [#product_grid > div] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Add to Wishlist Option ? 
+	 Locator: [#product_grid > div .ti-heart] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Compare Option ? 
+	 Locator: [#product_grid > div .ti-control-shuffle] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: filters Results 
+	 Check Name: Each product has Cart Option ? 
+	 Locator: [#product_grid > div .ti-shopping-cart] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: productDetailsTest]**********************
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Image is displayed ? 
+	 Locator: [shoe_img] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product SKU code is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Review text is displayed ? 
+	 Locator: [EM____82] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Size dropdown set to Small (S) ? 
+	 Locator: [.current] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: New price set to $33.00 ? 
+	 Locator: [new_price] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Old Price Striked through ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Add to cart button displayed ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: productDetailsTest]**********************
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Image is displayed ? 
+	 Locator: [shoe_img] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product SKU code is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Review text is displayed ? 
+	 Locator: [EM____82] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Size dropdown set to Small (S) ? 
+	 Locator: [.current] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: New price set to $33.00 ? 
+	 Locator: [new_price] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Old Price Striked through ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Add to cart button displayed ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: productDetailsTest]**********************
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Image is displayed ? 
+	 Locator: [shoe_img] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product SKU code is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Review text is displayed ? 
+	 Locator: [EM____82] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Size dropdown set to Small (S) ? 
+	 Locator: [.current] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: New price set to $33.00 ? 
+	 Locator: [new_price] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Old Price Striked through ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Add to cart button displayed ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 1200 X 700 
+	 Device: Laptop 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: productDetailsTest]**********************
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Image is displayed ? 
+	 Locator: [shoe_img] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product SKU code is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Review text is displayed ? 
+	 Locator: [EM____82] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Size dropdown set to Small (S) ? 
+	 Locator: [.current] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: New price set to $33.00 ? 
+	 Locator: [new_price] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Old Price Striked through ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Add to cart button displayed ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: productDetailsTest]**********************
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Image is displayed ? 
+	 Locator: [shoe_img] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product SKU code is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Review text is displayed ? 
+	 Locator: [EM____82] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Size dropdown set to Small (S) ? 
+	 Locator: [.current] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: New price set to $33.00 ? 
+	 Locator: [new_price] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Old Price Striked through ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Add to cart button displayed ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: FIREFOX 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: productDetailsTest]**********************
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Image is displayed ? 
+	 Locator: [shoe_img] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product SKU code is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Review text is displayed ? 
+	 Locator: [EM____82] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Size dropdown set to Small (S) ? 
+	 Locator: [.current] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: New price set to $33.00 ? 
+	 Locator: [new_price] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Old Price Striked through ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Add to cart button displayed ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: EDGE_CHROMIUM 
+	 Viewport: 768 X 700 
+	 Device: Tablet 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
+
+**********************[TEST: productDetailsTest]**********************
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Image is displayed ? 
+	 Locator: [shoe_img] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product SKU code is displayed ? 
+	 Locator: [INPUTtext____42] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Product Review text is displayed ? 
+	 Locator: [EM____82] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Size dropdown set to Small (S) ? 
+	 Locator: [.current] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: New price set to $33.00 ? 
+	 Locator: [new_price] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Old Price Striked through ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+------------------------------------------------------------------
+Task: productDetailsTest 
+	 Check Name: Add to cart button displayed ? 
+	 Locator: [old_price] 
+	 Expecting: true 
+	 Browser: CHROME 
+	 Viewport: 411 X 843 
+	 Device: Mobile 
+Status: <Pass>
+------------------------------------------------------------------
+
+**********************[TEST END HERE]**********************
