@@ -12,9 +12,6 @@ for ARGUMENT in "$@"; do
   TEST_TYPE | test_type | type | tests)
     TEST_TYPE=${VALUE}
     ;;
-  KEY | key)
-    KEY=${VALUE}
-    ;;
   *) ;;
   esac
 done
