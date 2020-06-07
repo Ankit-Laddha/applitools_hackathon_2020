@@ -28,7 +28,7 @@ fi
 if [[ -z "${TEST_TYPE}" ]]; then
   echo -e "\nTEST_TYPE is not set, Defaulting to <traditional> tests"
   TEST_TYPE="traditional"
-elif [[ ! "${TEST_TYPE}" =~ ^(traditional|modern|t)$ ]]; then
+elif [[ ! "${TEST_TYPE}" =~ ^(traditional|modern)$ ]]; then
   echo -e "\nTEST_TYPE wrongly set. It has to be either <traditional> OR <modern>"
   echo -e "Not Running tests. Exiting with code 1."
   exit 1
