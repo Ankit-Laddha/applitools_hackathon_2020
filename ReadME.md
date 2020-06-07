@@ -16,7 +16,7 @@
     
 #### <ins>**# Setup / Pre-requisite**</ins>
  
-  * Download following browsers on your local: 
+  * Download following browsers on your local for our traditional tests: 
   
     ```Chrome V80+, Firefox v75.0+, Latest Edge Chromium```
  	
@@ -33,10 +33,11 @@
 --------------------------   
 
 #### <ins>**# Getting Started**</ins>
-* Clone the repository  
-        ```bash
-        git clone <repo-git-url>
-        ```
+* Clone the repository
+
+    ```bash
+    git clone git@github.com:Ankit-Laddha/applitools_hackathon_2020.git
+    ```    
 * Modern tests are placed in package [here: click to open](src/test/kotlin/io/ankitladdha/aitests/tests/modern)
     * Tests for [v1](src/test/kotlin/io/ankitladdha/aitests/tests/modern/ModernTestsV1.kt) and [v2](src/test/kotlin/io/ankitladdha/aitests/tests/modern/ModernTestsV2.kt) version are identical. Hence I have disabled tests in V2.
 
@@ -44,7 +45,7 @@
     * Tests for [v1](src/test/kotlin/io/ankitladdha/aitests/tests/traditional/TraditionalTestsV1.kt) and [v2](src/test/kotlin/io/ankitladdha/aitests/tests/modern/ModernTestsV2.kt) version are also identical.
     Hence I have disabled tests in V2.
     
-    * <ins>Important:</ins> I have tried to make v1 tests very exhaustive. For few locator differences present in v2 version, I have highlighted them with a comment in the tests  
+    * <ins>**Important:**</ins> I have tried to make v1 tests very exhaustive. For few locator differences present in v2 version, I have highlighted them with a comment in the v1 tests  
        
 
 -------------------------- 
