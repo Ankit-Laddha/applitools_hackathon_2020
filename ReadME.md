@@ -77,7 +77,8 @@
  * For Traditional tests 
     * Report for run against v1, open [Traditional-v1-TestResults.txt](Traditional-v1-TestResults.txt) 
     * Report for run against v2, open [Traditional-v2-TestResults.txt](Traditional-v2-TestResults.txt)
-    * For Html report, open allure report using below command
+    * For Html report, open allure report using below command. Note this is just to pretty-view the failures.
+      For exact reason of failures do refer `.txt` files 
         ```bash
         allure serve target/allure-results  
         ```
