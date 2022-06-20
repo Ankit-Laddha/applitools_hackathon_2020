@@ -11,7 +11,7 @@
     <name>Applitools_Grid_Example_AiTests</name>
 
     <properties>
-        <kotlin.version>1.3.72</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
         <surefire.version>3.0.0-M3</surefire.version>
         <aspectj.version>1.9.1</aspectj.version>
